@@ -1,2 +1,17 @@
 # CML-Weather-on-Rail
-Causal Machine Learning analysis of weather impacts on rail public transport performance, focusing on the heterogeneous treatment effects.
+
+This repository contains code and reproducible workflows for analyzing the causal effects of weather conditions on rail operations and public transport using causal machine learning methods.
+
+## Scope
+The project investigates how variations in weather (e.g., temperature and precipitation) affect delays, and performance across rail public transport networks.
+
+## Methods
+- Causal machine learning (PLR DML, causal forests DML)
+- Weather data from the German Climate Data Center (DWD CDC)
+- Rail and public transport operational data
+
+## Reproducibility
+Raw data are not included in the repository due to size and licensing constraints. Scripts for data processing and analysis are provided to enable replication using publicly available data sources.
+
+## License
+MIT License
