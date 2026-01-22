@@ -11,7 +11,7 @@ The project investigates how variations in weather (e.g., temperature and precip
 - Rail and public transport operational data
 
 ## Reproducibility
-Raw data are not included in the repository due to size and licensing constraints. Scripts for data processing and analysis are provided to enable replication using publicly available data sources.
+Raw data are not included in the repository due to size and licensing constraints. 
 
 ## License
 MIT License
