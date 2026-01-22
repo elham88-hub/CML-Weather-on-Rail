@@ -238,6 +238,9 @@ outputs/**
 !outputs/**/*.pdf
 !outputs/**/*.csv
 !outputs/**/README.md
+!outputs/README.md
+
+
 
 # ===============================
 # LaTeX build artifacts
