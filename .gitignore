@@ -233,6 +233,11 @@ plots/
 *.png
 *.pdf
 *.svg
+outputs/**
+!outputs/**/*.png
+!outputs/**/*.pdf
+!outputs/**/*.csv
+!outputs/**/README.md
 
 # ===============================
 # LaTeX build artifacts
