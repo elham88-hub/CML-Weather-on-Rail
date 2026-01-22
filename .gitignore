@@ -240,6 +240,10 @@ outputs/**
 !outputs/**/README.md
 !outputs/README.md
 
+!outputs/figures/**/*.png
+!outputs/tables/**/*.csv
+!outputs/**/README.md
+!outputs/**/.gitkeep
 
 
 # ===============================
